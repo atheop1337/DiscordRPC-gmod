@@ -1,0 +1,7 @@
+C:\Everything\projects\EvaRPC-gmod\deps\discord\connection_win.cpp;C:\Everything\projects\EvaRPC-gmod\build\inter\connection_win.obj
+C:\Everything\projects\EvaRPC-gmod\deps\discord\discord_register_win.cpp;C:\Everything\projects\EvaRPC-gmod\build\inter\discord_register_win.obj
+C:\Everything\projects\EvaRPC-gmod\deps\discord\discord_rpc.cpp;C:\Everything\projects\EvaRPC-gmod\build\inter\discord_rpc.obj
+C:\Everything\projects\EvaRPC-gmod\deps\discord\rpc_connection.cpp;C:\Everything\projects\EvaRPC-gmod\build\inter\rpc_connection.obj
+C:\Everything\projects\EvaRPC-gmod\deps\discord\serialization.cpp;C:\Everything\projects\EvaRPC-gmod\build\inter\serialization.obj
+C:\Everything\projects\EvaRPC-gmod\src\rpc.cpp;C:\Everything\projects\EvaRPC-gmod\build\inter\rpc.obj
+C:\Everything\projects\EvaRPC-gmod\src\dllmain.cpp;C:\Everything\projects\EvaRPC-gmod\build\inter\dllmain.obj
