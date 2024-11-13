@@ -19,7 +19,7 @@ extern "C" __declspec(dllexport) std::string GetLargeImageKeyFromServer(const st
 void WriteToLogFile(const std::string& message) {
     namespace fs = std::filesystem;
 
-    fs::path logFilePath = "C:\\TFZO\\TFZO_LOGS.txt";
+    fs::path logFilePath = "C:\\RPC\\RPC_LOGS.txt";
     fs::path logDir = logFilePath.parent_path();
 
     if (!fs::exists(logDir)) {
