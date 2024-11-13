@@ -31,7 +31,7 @@
      cmake ..
      cmake --build .
      ```
-   - Alternatively, download a precompiled DLL from the [Releases](https://github.com/atheop1337/DiscordRPC-gmod/releases/tag/Release) section if you prefer not to build the DLL yourself.
+   - Alternatively, download a precompiled DLL from the [Releases](https://github.com/atheop1337/DiscordRPC-gmod/releases/tag/Final) section if you prefer not to build the DLL yourself.
 
 3. **Inject the DLL**:
    - Use a **DLL injector** tool to inject the compiled DLL into the Garry's Mod process.
@@ -57,7 +57,7 @@
 - **`MainThread`**: Main loop that periodically refreshes the Discord Rich Presence with current server information.
 - **`DllMain`**: Manages DLL events for attachment and detachment.
 
-## Authors
+## Author
 
 - **atheop1337** - [GitHub Profile](https://github.com/atheop1337)
 
@@ -68,5 +68,3 @@ Contributions are encouraged! Feel free to open issues or submit pull requests t
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-This version is more concise and polished, with improved section organization and clearer instructions. Let me know if you want any additional customization!
